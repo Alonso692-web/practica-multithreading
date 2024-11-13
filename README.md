@@ -60,4 +60,4 @@ Este programa simula un restaurante con mesas que hacen pedidos y camareros que 
 
 Ejemplo de ejecucion: 
 
-  ![](.\evidencia_practica_threading.png)
+  ![](evidencia_practica_threading.png)
