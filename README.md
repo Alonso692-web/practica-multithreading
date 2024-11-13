@@ -6,7 +6,7 @@ Este programa simula un restaurante con mesas que hacen pedidos y camareros que 
    - Se definen varias constantes:
      - `NUM_MESAS`: Número de mesas en el restaurante.
      - `NUM_CAMAREROS`: Número de camareros disponibles.
-     - `TIEMPO_PREPARACION_MAX`: Tiempo mínimo de preparación de un pedido.
+     - `TIEMPO_PREPARACION_MIN`: Tiempo mínimo de preparación de un pedido.
      - `TIEMPO_PREPARACION_MAX`: Tiempo máximo de preparación de un pedido.
      - `PLATOS`: Lista de platos disponibles para pedir.
 
